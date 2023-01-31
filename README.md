@@ -1,3 +1,7 @@
+[![pypi](https://img.shields.io/pypi/v/scikit-cache.svg)](https://pypi.org/project/scikit-cache/)
+[![pypi](https://img.shields.io/pypi/pyversions/scikit-cache.svg)](https://pypi.org/project/scikit-cache/)
+[![pypi](https://img.shields.io/pypi/l/scikit-cache.svg)](https://raw.githubusercontent.com/deniskrumko/scikit-cache/master/LICENSE)
+
 # Scikit Cache
 
 Pickle-based caching library. Supports file-system caching only.
