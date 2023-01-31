@@ -42,6 +42,7 @@ optional-dependencies.dev = [
     "isort",
     "mypy",
     "pytest",
+    "pytest-mock",
     "pytest-cov",
     "coverage[toml]",
     "pandas",
